@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Luca",
+        "apellido": "Provenzano",
+        "email": "Luca@gmail.com",
+        "materia": "Programacion II",
+        "codigoMateria": "PROG2018"
+    },
+    {
+        "nombre": "Lucas",
+        "apellido": "Alario",
+        "email": "Lucas@gmail.com",
+        "materia": "Programacion I",
+        "codigoMateria": "PROG2018"
+    }
+]
